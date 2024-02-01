@@ -1,3 +1,5 @@
+
+# en mode script ,on ecrit les codes dans un fichier .py
 nom="Ali" #variable de type str
 age=30 # variable de type int
 salaire=1200.7654 #variable de type float
